@@ -3,18 +3,18 @@ function paragraphSelector(){
   return $('p')
 }
 
-function paragraphSelector(){
+function lastImageSelector(){
   return $('p')
 }
 
-function paragraphSelector(){
+function ninjaBabySelector(){
   return $('p')
 }
 
-function paragraphSelector(){
+function divSelector(){
   return $('p')
 }
 
-function paragraphSelector(){
+function firstListItem(){
   return $('p')
 }
